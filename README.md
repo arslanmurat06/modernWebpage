@@ -7,4 +7,4 @@
  
  Deployed by vercel.
  
- To see the sample --> [Go]()
+ To see the sample --> [Go](https://modernpage.vercel.app/)
